@@ -1,2 +1,2 @@
 Questo file è stato creato sul branch main
-ecco il mio primo conflitto
+Le modifiche che sono  effettuate sul branch dev le ho buttate via
